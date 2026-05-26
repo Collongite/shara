@@ -8,6 +8,7 @@
 
 ссылка для Телеграм:
 tg://proxy?server=one.nxrhub.run&port=443&secret=ee7287be476993a67190dbcbe946167b3c70696b2e7275
+
 ссылка для браузера:
 https://t.me/proxy?server=one.nxrhub.run&port=443&secret=ee7287be476993a67190dbcbe946167b3c70696b2e7275
 
@@ -18,6 +19,7 @@ https://t.me/proxy?server=one.nxrhub.run&port=443&secret=ee7287be476993a67190dbc
 
 ссылка для Телеграм:
 tg://proxy?server=dedicated.its-work.ru&port=443&secret=ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d
+
 ссылка для браузера:
 https://t.me/proxy?server=dedicated.its-work.ru&port=443&secret=ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d
 
@@ -28,6 +30,7 @@ https://t.me/proxy?server=dedicated.its-work.ru&port=443&secret=ee368601a36ebfaf
 
 ссылка для Телеграм:
 tg://proxy?server=fast.mtgvtsly.ru&port=443&secret=ee50df578d61bf5b60f164115359d1c0266164732e78352e7275
+
 ссылка для браузера:
 https://t.me/proxy?server=fast.mtgvtsly.ru&port=443&secret=ee50df578d61bf5b60f164115359d1c0266164732e78352e7275
 
@@ -38,6 +41,7 @@ https://t.me/proxy?server=fast.mtgvtsly.ru&port=443&secret=ee50df578d61bf5b60f16
 
 ссылка для Телеграм:
 tg://proxy?server=free.abrdns.com&port=443&secret=ee8f21364305f05c124f5cb1712533c280667265652e616272646e732e636f6d
+
 ссылка для браузера:
 https://t.me/proxy?server=free.abrdns.com&port=443&secret=ee8f21364305f05c124f5cb1712533c280667265652e616272646e732e636f6d
 
@@ -48,6 +52,7 @@ https://t.me/proxy?server=free.abrdns.com&port=443&secret=ee8f21364305f05c124f5c
 
 ссылка для Телеграм:
 tg://proxy?server=alo.acharbashi.info&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d
+
 ссылка для браузера:
 https://t.me/proxy?server=alo.acharbashi.info&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d
 
