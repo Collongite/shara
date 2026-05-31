@@ -59,5 +59,37 @@ https://t.me/proxy?server=alo.acharbashi.info&port=4515&secret=eee9a4f23b1d768c0
 
 ************************
 
+---  de.indigogift.fun  ---
+
+ссылка для Телеграм:
+tg://proxy?server=de.indigogift.fun&port=443&secret=ee9481926e289b1ce3aab7e246792521047777772e636c6f7564666c6172652e636f6d
+ссылка для браузера:
+https://t.me/proxy?server=de.indigogift.fun&port=443&secret=ee9481926e289b1ce3aab7e246792521047777772e636c6f7564666c6172652e636f6d
+
+
+************************
+
+---  bucket-ru-finland.kimt.space  ---
+
+ссылка для Телеграм:
+tg://proxy?server=bucket-ru-finland.kimt.space&port=443&secret=eedffefd3b8c4d2e35e91094524bd3010e6275636b65742d72752d66696e6c616e642e6b696d742e7370616365
+ссылка для браузера:
+https://t.me/proxy?server=bucket-ru-finland.kimt.space&port=443&secret=eedffefd3b8c4d2e35e91094524bd3010e6275636b65742d72752d66696e6c616e642e6b696d742e7370616365
+
+
+************************
+
+---  boost.telehelp.top  ---
+
+ссылка для Телеграм:
+tg://proxy?server=boost.telehelp.top&port=443&secret=eed4f42b03cae4d1a0f2e2a51454a6e0d7626f6f73742e74656c6568656c702e746f70
+ссылка для браузера:
+https://t.me/proxy?server=boost.telehelp.top&port=443&secret=eed4f42b03cae4d1a0f2e2a51454a6e0d7626f6f73742e74656c6568656c702e746f70
+
+
+************************
+
+
+
 
 
