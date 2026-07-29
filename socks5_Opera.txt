@@ -1,1 +1,1 @@
-https://w.net-healer.com:443
+socks5://212.58.132.5:1080
